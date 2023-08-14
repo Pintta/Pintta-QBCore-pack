@@ -33,7 +33,6 @@ https://github.com/Pintta/qb-caraudio
 Drift (standalone)
 ```
 https://github.com/Pintta/Drift
-```
 QB-Gps
 ```
 https://github.com/Pintta/qb-gps
