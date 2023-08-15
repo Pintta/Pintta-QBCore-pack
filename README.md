@@ -14,7 +14,7 @@ QB-Doorlock with Gabz door config
 ```
 https://github.com/Pintta/QB-Doorlock-Gabz-config
 ```
-QB-inventory with +2k item pictures
+QB-inventory
 ```
 https://github.com/Pintta/qb-inventory
 ```
