@@ -37,3 +37,7 @@ https://github.com/Pintta/Drift
 QB-Gps
 ```
 https://github.com/Pintta/qb-gps
+```
+QB-Npc
+```
+https://github.com/Pintta/qb-npc
