@@ -41,3 +41,7 @@ https://github.com/Pintta/qb-gps
 QB-Npc
 ```
 https://github.com/Pintta/qb-npc
+```
+OP-Cocaine
+```
+https://github.com/Pintta/op-cocaine
