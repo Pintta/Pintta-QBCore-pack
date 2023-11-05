@@ -45,3 +45,7 @@ https://github.com/Pintta/qb-npc
 OP-Cocaine
 ```
 https://github.com/Pintta/op-cocaine
+```
+FiveM-RealisticHandling
+```
+https://github.com/Pintta/FiveM-RealisticHandling
