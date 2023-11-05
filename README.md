@@ -1,5 +1,6 @@
-# Pintta-QBCore-pack
+# PinttaScripts 
 This is the list for my style do QBCore scripts :)
+And standalones :)
 
 ```
 QB-NaturalTrafficLights
